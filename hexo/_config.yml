@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 永亮的博客
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: 永亮的博客
+author: MaYongLiang
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,6 +103,17 @@ theme: shoka
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+- type: git
   repo:
     github: https://github.com/895100133/895100133.github.io.git,main
+    gitee: https://gitee.com/M-yl/personal-blog.git,master
+
+- type: baidu_url_submitter
+
+# hexo-baidu-url-submit  百度主动推送
+baidu_url_submit:
+  count: 80 # 提交最新的一个链接
+  host: blog.niuniu.club # 在百度站长平台中注册的域名
+  token: kxDWeBT4kJpH3TPI # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
+  path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里
+

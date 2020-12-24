@@ -539,6 +539,13 @@
     "minimatch" "^3.0.2"
     "postcss" "^7.0.7"
 
+"hexo-baidu-url-submit@^0.0.6":
+  "integrity" "sha512-0jDyIuw5B2Muqsjcf5Xxo1PNjxClPHP14FpB0amEAIr4wUdxk5zahImvOhkZwR9GrBhWKAPdjzmWS/xIMjzfrw=="
+  "resolved" "https://registry.npmjs.org/hexo-baidu-url-submit/-/hexo-baidu-url-submit-0.0.6.tgz"
+  "version" "0.0.6"
+  dependencies:
+    "xmlhttprequest" "^1.8.0"
+
 "hexo-cli@^4.0.0":
   "version" "4.2.0"
   dependencies:
@@ -1294,6 +1301,11 @@
 
 "wrappy@1":
   "version" "1.0.2"
+
+"xmlhttprequest@^1.8.0":
+  "integrity" "sha1-Z/4HXFwk/vOfnWX197f+dRcZaPw="
+  "resolved" "https://registry.npmjs.org/xmlhttprequest/-/xmlhttprequest-1.8.0.tgz"
+  "version" "1.8.0"
 
 "yargs@~3.10.0":
   "integrity" "sha1-9+572FfdfB0tOMDnTvvWgdFDH9E="
