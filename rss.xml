@@ -5,8 +5,15 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 24 Dec 2020 10:14:02 +0800</pubDate>
-        <lastBuildDate>Thu, 24 Dec 2020 10:14:02 +0800</lastBuildDate>
+        <pubDate>Thu, 24 Dec 2020 14:29:00 +0800</pubDate>
+        <lastBuildDate>Thu, 24 Dec 2020 14:29:00 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2020/12/24/react/</guid>
+            <title>react</title>
+            <link>http://example.com/2020/12/24/react/</link>
+            <pubDate>Thu, 24 Dec 2020 14:29:00 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2020/12/24/hello-world/</guid>
             <title>Hello World</title>
