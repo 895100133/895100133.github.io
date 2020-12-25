@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://blog.niuniu.club</id>
     <title>yongliang的博客 • Posts by &#34;js红宝书&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://blog.niuniu.club" />
     <updated>2020-12-24T06:29:00.000Z</updated>
     <entry>
-        <id>http://example.com/2020/12/24/redBook/seven/course-1/js%E7%BA%A2%E5%AE%9D%E4%B9%A6/</id>
+        <id>https://blog.niuniu.club/2020/12/24/redBook/seven/course1/js%E7%BA%A2%E5%AE%9D%E4%B9%A6/</id>
         <title>js红宝书</title>
-        <link rel="alternate" href="http://example.com/2020/12/24/redBook/seven/course-1/js%E7%BA%A2%E5%AE%9D%E4%B9%A6/"/>
+        <link rel="alternate" href="https://blog.niuniu.club/2020/12/24/redBook/seven/course1/js%E7%BA%A2%E5%AE%9D%E4%B9%A6/"/>
         <content type="html">&lt;h2 id=&#34;nihao&#34;&gt;&lt;a href=&#34;#nihao&#34; class=&#34;headerlink&#34; title=&#34;nihao&#34;&gt;&lt;/a&gt;nihao&lt;/h2&gt;</content>
         <updated>2020-12-24T06:29:00.000Z</updated>
     </entry>
