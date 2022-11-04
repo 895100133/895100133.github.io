@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://blog.niuniu.club
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,6 +69,13 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  js红宝书: redBook
+  第七章 迭代器与生成器: seven
+  生成器: course1
+
+  React: react
+  状态管理工具: state
+  Recoil: recoil
 tag_map:
 
 # Metadata elements
